@@ -1,3 +1,3 @@
-# botwasapv3
+# lolgami bot
 
 
